@@ -6,7 +6,11 @@ print("hI")
 def physics():
     return "GHI"
 
+
 def change():
-    return "" 
+    return ""
+
 
 print("change")
+
+print("smth stupid")

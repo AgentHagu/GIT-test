@@ -12,5 +12,3 @@ def change():
 
 
 print("change")
-
-print("smth stupid")
